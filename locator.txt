@@ -1,0 +1,57 @@
+
+/*********************xpath
+
+//*[@id="Login"]
+
+
+
+//*[@id="usernamegroup"]
+
+//*[@id="Login"]
+//*[@id="pass"]
+/html/body/div[1]/div[2]/div/div/div/div/div[2]/form/table/tbody/tr[3]/td[2]/div/a   ======= Not reliable
+//*[@id="login_form"]/table/tbody/tr[3]/td[2]/div/a
+
+****************************************/
+
+/***************************css
+#email
+#pass
+td.login_form_label_field:nth-child(2) > div:nth-child(1) > a:nth-child(1)
+
+
+
+
+
+/html/body/div[1]/div[2]/div/div/div/div/div[2]/form/table/tbody/tr[3]/td[2]/div/a
+//*[@id='email']
+#email
+#email
+#forgot_password_link
+//*[@id='forgot_password_link']
+//*[@id='mydomainLink']
+
+
+a#forgot_password_link.fl.small
+
+
+//*[@id='error']
+
+<input type="email" class="inputtext login_form_input_box" name="email" id="email" data-testid="royal_email">
+<input type="password" class="inputtext login_form_input_box" name="pass" id="pass" data-testid="royal_pass">
+
+//*[@id="email"]=============//input[@id='email']
+//*[@id="pass"]===============//input[@type='password']
+
+
+
+
+
+
+
+<input type="email" class="inputtext login_form_input_box" name="email" id="email" data-testid="royal_email">
+//input[@id'email']
+//*[@name'pass']
+
+
+/html/body/div/div[1]/div[1]/div[2]/form/div[1]/div[2]/div[2]/div[2]/input[2]
